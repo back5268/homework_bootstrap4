@@ -86,16 +86,6 @@ form .form-group .title {
     font-weight: 600;
 }
 
-form {
-    border: 1px solid gray;
-    padding: 0 16px;
-}
-
-form button {
-    outline: none;
-    border: none;
-    color: white;
-    border-radius: 4px;
-    background-color: rgb(95, 134, 240);
-    padding: 4px 8px;
+.modal-footers {
+    margin-bottom: 24px;
 }
