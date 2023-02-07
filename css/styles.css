@@ -73,3 +73,29 @@ body {
     z-index: 1;
 }
 
+.number-guests input {
+    margin: 0 4px;
+}
+
+form .form-group .title {
+    background-color: rgb(255, 197, 80);
+    color: white;
+    width: 100%;
+    padding: 8px;
+    font-size: 24px;
+    font-weight: 600;
+}
+
+form {
+    border: 1px solid gray;
+    padding: 0 16px;
+}
+
+form button {
+    outline: none;
+    border: none;
+    color: white;
+    border-radius: 4px;
+    background-color: rgb(95, 134, 240);
+    padding: 4px 8px;
+}
